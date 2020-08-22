@@ -25,7 +25,7 @@ def literal_aoh
   { :name => "Bruce Green", :occupation => "Fan of Mildred" }]
 
 def aoh_lookup (aoh, row, key)
-  aoh_lookup(assembled_aoh, 2, :name)
+  aoh_lookup
 end
 
 
